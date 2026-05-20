@@ -152,7 +152,7 @@ export default function App() {
           <p className="text-lg mb-4">Realizamos los pedidos a la puerta de tu casa</p>
           <p className="text-lg mb-8">Tenemos una increible colección de flores</p>
           <button className="px-8 py-3 border-2 border-white hover:bg-white hover:text-teal-900 transition-colors"
-            onClick={() => window.open("https://online.fliphtml5.com/CatalogoRosasJany/cveq/#p=11", "_blank")}
+            onClick={() => window.open("https://online.fliphtml5.com/CatalogoRosasJany/cveq/#p=1", "_blank")}
             rel="noopener noreferrer" >
             Catalogo Completo
           </button>
@@ -190,7 +190,7 @@ export default function App() {
             </div>
           </div>
           <div className="border-t border-gray-300 pt-8 text-center">
-            <p className="text-sm text-gray-600">Make by W.A.R. for © 2026 Esencia & Aroma. All rights reserved.</p>
+            <p className="text-sm text-gray-600">Make by W.A.R.N. for © 2026 Esencia & Aroma. All rights reserved.</p>
           </div>
         </div>
       </footer>
