@@ -11,14 +11,15 @@ export default function App() {
               <button className="lg:hidden">
                 <Menu className="w-6 h-6" />
               </button>
-              <a href="#about" className="text-sm hover:text-gray-600">About</a>
+              <a href="#about" className="text-sm hover:text-gray-600">Sobre Nosotros</a>
             </div>
 
             <div className="absolute left-1/2 transform -translate-x-1/2">
             </div>
 
             <div className="flex items-center gap-8">
-              <a  href="https://www.facebook.com/profile.php?id=61588128194303" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-gray-600">Contact</a>
+              <a  href="https://www.facebook.com/profile.php?id=61588128194303" target="_blank" 
+              rel="noopener noreferrer" className="text-sm hover:text-gray-600">Contacto</a>
               <button className="relative"
                 onClick={() => window.open("https://wa.me/51989322280", "_blank")}
                 rel="noopener noreferrer" >
